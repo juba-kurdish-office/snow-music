@@ -4,7 +4,7 @@ module.exports = {
     ownerID: "730549617044750346",
     SpotifyID: "",
     SpotifySecret: "",
-    mongourl: "",
+    mongourl: "mongodb+srv://jubadevlopment:g112233s@cluster0.js1to.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     embedColor: "RANDOM",
     logs: "934907495359586365",
 
