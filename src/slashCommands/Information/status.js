@@ -29,3 +29,4 @@ client.guilds.cache.forEach((guild) => {
         
       interaction.followUp({embeds: [embed]});
     }
+}
