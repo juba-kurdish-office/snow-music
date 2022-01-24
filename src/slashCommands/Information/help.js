@@ -12,9 +12,9 @@ module.exports = {
         });
   const embed = new MessageEmbed()
     .setTitle("**Help - Menu**")
-    .addField("İnformation","`setprefix`, `invite`, `status`") 
-    .addField("Music","`play`, `skip`, `stop`, `pause`, `resume`, `shuffle`, `seek`, `skipto`, `loop`, `remove`, `queue`, `filters`, `nowplaying`, `clearqueue`, `24/7`, `leave`") 
-    .addField("Filter","`party`, `bass`, `radio`, `pop`, `trablebass`, `soft`, `custom`, `off`")
+    .addField("<a:clever:934459249470357514>İnformation","`setprefix`, `invite`, `status`") 
+    .addField("<a:emoji_145:934459495428530196>Music","`play`, `skip`, `stop`, `pause`, `resume`, `shuffle`, `seek`, `skipto`, `loop`, `remove`, `queue`, `filters`, `nowplaying`, `clearqueue`, `24/7`, `leave`") 
+    .addField("<a:emoji_110:934441822233722951>Filter","`party`, `bass`, `radio`, `pop`, `trablebass`, `soft`, `custom`, `off`")
     .setColor("RANDOM")
    await interaction.followUp({embeds: [embed]})
   }
