@@ -1,5 +1,5 @@
 module.exports = {
-    token: "ODYyOTg5ODk3OTU0NjIzNTAw.YOgX-Q.18L_6V-gbEuUrdUx3xMeeJ1lNcI",
+    token: "ODYyOTg5ODk3OTU0NjIzNTAw.YOgX-Q.jhDt0ySu-ua_mitvPdgy6a3xxGw",
     prefix: ",",
     ownerID: "730549617044750346",
     SpotifyID: "",
